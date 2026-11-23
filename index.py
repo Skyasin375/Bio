@@ -24,6 +24,7 @@ REGION_URLS = {
     "BR":     "https://client.us.freefiremobile.com/UpdateSocialBasicInfo",
     "EUROPE": "https://clientbp.ppmainecoonghj.com/UpdateSocialBasicInfo",
     "ID":     "https://clientbp.ppmainecoonghj.com/UpdateSocialBasicInfo",
+    "IND":    "https://clientbp.freefireind.in/UpdateSocialBasicInfo",
     "ME":     "https://clientbp.ppmainecoonghj.com/UpdateSocialBasicInfo",
     "NA":     "https://client.us.freefiremobile.com/UpdateSocialBasicInfo",
     "PK":     "https://clientbp.ppmainecoonghj.com/UpdateSocialBasicInfo",
